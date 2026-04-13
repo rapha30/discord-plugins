@@ -3,8 +3,8 @@
  * @author Rapha
  * @description Mostra metricas de atividade de todos os servidores para ajudar a decidir quais manter ou sair. Zero chamadas de API - usa dados locais do cliente.
  * @version 1.0.0
- * @source https://github.com/rapha30/bd-plugins
- * @updateUrl https://raw.githubusercontent.com/rapha30/bd-plugins/master/ServerActivity.plugin.js
+ * @source https://github.com/rapha30/discord-plugins
+ * @updateUrl https://raw.githubusercontent.com/rapha30/discord-plugins/master/ServerActivity.plugin.js
  */
 
 module.exports = class ServerActivity {

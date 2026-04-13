@@ -1,0 +1,16 @@
+{
+  "name": "bd-bridge-mcp",
+  "version": "1.0.0",
+  "description": "MCP server que consome o ClaudeBridge BetterDiscord plugin e expoe tools read-only sobre o Discord client do usuario.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "bd-bridge-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

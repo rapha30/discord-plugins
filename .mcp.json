@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bd-bridge": {
+      "command": "node",
+      "args": ["c:/ClaudeAIProjects/search-plugin-discord/bd-bridge-mcp/index.js"]
+    }
+  }
+}
